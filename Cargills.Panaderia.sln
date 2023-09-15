@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cargills.Panaderia", "Cargills.Panaderia\Cargills.Panaderia.csproj", "{D834E208-EEC3-4434-ADF1-7866EEE78ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D834E208-EEC3-4434-ADF1-7866EEE78ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D834E208-EEC3-4434-ADF1-7866EEE78ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D834E208-EEC3-4434-ADF1-7866EEE78ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D834E208-EEC3-4434-ADF1-7866EEE78ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19028642-F2C7-4484-9BCE-FEEA45587413}
+	EndGlobalSection
+EndGlobal
